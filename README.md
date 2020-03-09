@@ -1,2 +1,2 @@
-# wealth_app
-The code behind the "How wealthy am I?" Shiny App
+# Wealth App Code
+The code behind the ["How wealthy am I?"](https://statisticsnz.shinyapps.io/wealth/) Shiny App
